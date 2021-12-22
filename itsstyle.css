@@ -26,12 +26,11 @@ font-weight:bold;
 .robin img 
 {
      border-radius:50%;
-     height:30%;
-     width:30%;
-     size:20%;
-      vertical-align:"middle"; 
-margin-top:10%;
-margin-left:60%
+     height:35%;
+     width:17.5%;
+     vertical-align:"middle"; 
+     margin-top:10%;
+     margin-left:70%
 }
 
 .hero
